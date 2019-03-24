@@ -1,7 +1,6 @@
 ## Hello World !
 
-This is Shubham Jaiswal.
-I'm 2016 passout from [IIT-BHU Varanasi](https://www.iitbhu.ac.in/) with B.Tech in Electrical Engineeing.
+This is Shubham Jaiswal.</br>I'm 2016 passout from [IIT-BHU Varanasi](https://www.iitbhu.ac.in/) with B.Tech in Electrical Engineeing.
 
 ## Welcome to GitHub Pages
 
