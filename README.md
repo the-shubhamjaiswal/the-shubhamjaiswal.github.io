@@ -5,7 +5,7 @@ I'm 2016 passout from [IIT-BHU Varanasi](https://www.iitbhu.ac.in/) with B.Tech 
 
 I work on Lithium-ion batteies. I have been designing battery management system hardware. Recently, I have shifted my attention to -
 1. Cell modelling
-2. Developing algorithms for battery management  
+2. Algorithms for battery management  
 
 Apart from working on batteries, I like to spend my time in <a href= "/travel">travelling</a>, listening/reading books and cooking.
 <br> <br>
