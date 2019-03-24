@@ -1,21 +1,15 @@
 ## Hello World !
 
 This is Shubham Jaiswal.  
-I'm 2016 passout from [IIT-BHU Varanasi](https://www.iitbhu.ac.in/) with B.Tech in Electrical Engineeing.
+I'm 2016 passout from [IIT-BHU Varanasi](https://www.iitbhu.ac.in/) with B.Tech in Electrical Engineeing.  
 
-<br>
-<br>
-
-Apart from working on robotics projects, I like to spend my time in <a href= "/travel">travelling</a>, playing flute, listening/reading books and cooking.
+Apart from working on batteries, I like to spend my time in <a href= "/travel">travelling</a>, listening/reading books and cooking.
 <br> <br>
 Contact:
-<a href = "mailto:alapkshirsagar@gmail.com"> Gmail </a>
-<a href ="https://www.facebook.com/AlapKshirsagar"> Facebook </a>
-<a  href = "https://github.com/alapkshirsagar"> GitHub </a>
-</p>
-
+<a href = "mailto:shubhambjaiswal2011@gmail.com"> Gmail </a>
+<a href ="https://www.facebook.com/shubham.jaiswal.12139862"> Facebook </a>
+<a  href = "https://github.com/the-shubhamjaiswal"> GitHub </a>
   
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/theshubhamjaiswal/theshubhamjaiswal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
