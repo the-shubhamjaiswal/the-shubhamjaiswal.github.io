@@ -9,7 +9,4 @@ I work on Lithium-ion batteries. I have been designing battery management system
 
 Apart from working on batteries, I like to spend my time in listening/reading books and cooking.
 <br>
-Contact:
-<a href = "mailto:shubhambjaiswal2011@gmail.com"> Gmail </a>
-<a href ="https://www.facebook.com/shubham.jaiswal.12139862"> Facebook </a>
-<a href = "https://github.com/the-shubhamjaiswal"> GitHub </a>
+Contact:[Gmail](mailto:shubhambjaiswal2011@gmail.com) [Facebook](https://www.facebook.com/shubham.jaiswal.12139862) [GitHub](https://github.com/the-shubhamjaiswal)
