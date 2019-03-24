@@ -1,30 +1,3 @@
-<body>
-
-    <header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="/">embedded entanglement</a>
-
-    <nav class="site-nav">
-      
-        
-        <a class="page-link" href="http://salkinium.com">About</a>
-      
-        
-        <a class="page-link" href="/archives/">Archives</a>
-      
-        
-        <a class="page-link" href="https://twitter.com/salkinium">Twitter</a>
-      
-        
-        <a class="page-link" href="https://github.com/salkinium">GitHub</a>
-      
-    </nav>
-
-  </div>
-
-</body>
 
 ## Hello World !
 
