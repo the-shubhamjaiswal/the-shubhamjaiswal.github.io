@@ -1,3 +1,8 @@
+## Hello World !
+
+This is Shubham Jaiswal.
+I'm 2016 passout from [IIT-BHU Varanasi](https://www.iitbhu.ac.in/) with B.Tech in Electrical Engineeing.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/theshubhamjaiswal/theshubhamjaiswal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
